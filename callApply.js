@@ -11,4 +11,6 @@ const normalPerson = {
     }
 }
 normalPerson.chargeBill(2000);
+normalPerson.chargeBill(2000);
+normalPerson.getFullName();
 console.log(normalPerson.salary);
